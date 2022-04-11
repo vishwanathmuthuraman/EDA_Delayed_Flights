@@ -1,4 +1,4 @@
-![Screenshot](image.png)
+![Screenshot](images.png)
 
 # Explorative Data Analysis and Visualization of Delayed Flights
 
