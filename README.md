@@ -1,3 +1,5 @@
+![Screenshot](image.png)
+
 # Explorative Data Analysis and Visualization of Delayed Flights
 
 For this project i have scrapped data of united states domestic flights from the department of transportation. This data includes a detailed record of all flights that arrived and departed between the 1st and 15th of january 2015.
